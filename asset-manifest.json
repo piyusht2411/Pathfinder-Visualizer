@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pathfinder-Visualizer/static/css/main.0aa267d2.css",
+    "main.js": "/Pathfinder-Visualizer/static/js/main.e08e98f9.js",
+    "static/js/787.2036a371.chunk.js": "/Pathfinder-Visualizer/static/js/787.2036a371.chunk.js",
+    "static/media/logo.svg": "/Pathfinder-Visualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pathfinder-Visualizer/index.html",
+    "main.0aa267d2.css.map": "/Pathfinder-Visualizer/static/css/main.0aa267d2.css.map",
+    "main.e08e98f9.js.map": "/Pathfinder-Visualizer/static/js/main.e08e98f9.js.map",
+    "787.2036a371.chunk.js.map": "/Pathfinder-Visualizer/static/js/787.2036a371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa267d2.css",
+    "static/js/main.e08e98f9.js"
+  ]
+}
